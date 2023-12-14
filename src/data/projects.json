@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Used Car finder",
+    "imageSrc": "projects/driving.gif",
+    "description": "An interactive search engine allows user preferences and integrates two machine learning models: one predicts used car prices using supervised learning, while the other suggests car options through unsupervised learning.",
+    "skills": ["SQL", "unsupervised learning", "supervised learning"],
+    "source": "https://github.com/sncrsenyurt/Used_Car_Finder"
+  },
+  {
+    "title": "Road Accident Tableau Dashboard",
+    "imageSrc": "projects/accident.gif",
+    "description": "The Tableau dashboard contains comprehensive data on accidents in England, offering detailed analysis and visual representation of influencing factors like vehicle types, road and weather conditions, crucial for enhancing safety measures and reducing future risks, empowering informed, data-driven decisions in traffic safety.",
+    "skills": ["SQL", "EXCELL", "Tableau"],
+    "source": "https://public.tableau.com/app/profile/senyurt/viz/RoadAccidentDashboard_16993389175830/Dashboard1"
+  },
+  {
+    "title": "American Movie Trends",
+    "imageSrc": "projects/movie-trends.gif",
+    "description": "The project delves into pre- and post-COVID American film trends, spotlighting the shift from big-budget action movies to the rise of online streaming and indie films, reflecting changing audience preferences. It meticulously documents the industry's transformation and its impact.",
+    "skills": ["SQL", "Python", "Web Scraping"],
+    "source": "https://github.com/sncrsenyurt/American-Movie-Trends"
+  },
+  {
+    "title": "American Movie Trends",
+    "imageSrc": "projects/customers.gif",
+    "description": "Perform customer segmentation using the KMeans clustering algorithm. Identify univariate, bivariate, and multivariate clusters. Perform summary statistics on these clusters to identify the best marketing group. Data The dataset used for this project can be found in the data/ directory.",
+    "skills": ["SQL", "Python", "logistic regression","Clustering","SeaBorn"],
+    "source": "https://github.com/sncrsenyurt/Customer_Segmentation_Clustering"
+  },
+  {
+    "title": "Leaflet-Earthquake-Map",
+    "imageSrc": "projects/world.gif",
+    "description": "This project aims to visualize earthquake occurrences and their magnitudes using Leaflet. Users can explore the distribution of earthquakes on the map to gain insights into earthquake density and geographic patterns. Additionally, it represents earthquakes of different magnitudes with specific icons or colors to facilitate user comprehension.",
+    "skills": ["leaflet", "Python"],
+    "source": "https://github.com/sncrsenyurt/Leaflet-Earthquake-Map"
+  },
+  {
+    "title": "Crowdfunding ETL",
+    "imageSrc": "projects/etl.gif",
+    "description": "Within the scope of the project, ETL processes related to crowdfunding were performed. The data included information about crowdfunding campaigns, contributors' details, and campaign performance. These ETL processes encompassed the extraction of data from crowdfunding platforms, transforming this data into a suitable format for analysis. This allowed for effective analysis and reporting of crowdfunding campaigns.",
+    "skills": ["ETL", "Python"],
+    "source": "https://github.com/sncrsenyurt/Crowdfunding_ETL"
+  }
+]
